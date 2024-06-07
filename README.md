@@ -57,4 +57,4 @@
 <br>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: repeat; background-size: repeat; width: 100vw; opacity: 0.5; background: url('https://github.com/hax4dazy/hax4dazy/assets/16256978/20747807-4b94-4745-8141-75988cf7df7d');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: repeat; background-size: repeat; width: 100vw; opacity: 0.5; background: url('https://github.com/AyeZeeBB/AyeZeeBB/assets/18438498/11d4b30c-3efc-46e1-80a2-1ee3c738f2d3');]{x0000}$}
