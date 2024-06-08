@@ -55,6 +55,3 @@
 ![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 **\- https://www.youtube.com/c/Flutts**
 <br>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: repeat; background-size: repeat; width: 100vw; opacity: 0.5; background: url('https://github.com/AyeZeeBB/AyeZeeBB/assets/18438498/e8cc605b-75e5-4461-92b2-0d6b5c70b7e3');]{x0000}$}
