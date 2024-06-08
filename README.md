@@ -45,7 +45,7 @@
 ### Socials:
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
- **\- AyeZee #6969**
+ **\- zee_x64**
 <br>
 
 ![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)
