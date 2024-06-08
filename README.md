@@ -21,7 +21,7 @@
 </p> 
 
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=AyeZeeBB&theme=redical">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyeZeeBB&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true">
 </p> 
 <hr>
 
