@@ -58,7 +58,6 @@ I am a passionate hobbyist developer and I love creating things from scratch. I 
 ### My Tech Stack
 
 #### **Frontend Development**
-*Crafting responsive and interactive user interfaces.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -70,7 +69,6 @@ I am a passionate hobbyist developer and I love creating things from scratch. I 
 </p>
 
 #### **Backend & Systems**
-*Powering applications with robust logic and data.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
